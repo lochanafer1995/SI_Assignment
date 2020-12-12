@@ -1,0 +1,17 @@
+column_title,survey_question
+gender,Please enter your gender
+age,Please select your age group
+district,Please select your district of residence
+city,Enter your city
+education,Your level of education
+employed,Are you employed
+field,"If yes, enter your field of work "
+income ,Please specify your monthly income 
+application_user,Are you a banking mobile application user?
+saves_my_time,Please rate how satisfied are you with the banking mobile applications [I think using mobile banking saves my time]
+User_Interface,Please rate how satisfied are you with the banking mobile applications [I am happy with the User Interface of mobile banking]
+network_connectivity,Please rate how satisfied are you with the banking mobile applications [I trust the network connectivity while doing a transaction using mobile banking]
+information_security,Please rate how satisfied are you with the banking mobile applications [I am satisfied with the level of data and information security provided by the bank]
+compare_to_visiting_banks,Please rate how satisfied are you with the banking mobile applications [I find mobile banking cost effective as compare to visiting banks]
+aware_of_all_services,Please rate how satisfied are you with the banking mobile applications [I am completely aware of all the mobile banking services]
+comments,How do you think mobile banking apps can be improved to provide more services features? Give your comments.
